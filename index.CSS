@@ -1,0 +1,31 @@
+body{
+    background-color: lightgrey;
+}
+.fa{
+    color: rgba(11, 11, 234, 0.801);
+}
+span{
+    font-size: 13px;
+    margin: 15px 1px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.boxpart{
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 1px;
+}
+.main{
+    margin: 20px 1px;
+}
+.box{
+    padding: 50px 1px;
+}
+.fa{
+    color: rgb(10, 10, 225);
+}
+h1{
+    text-align: center;
+    margin: 30px;
+}
